@@ -17,4 +17,5 @@ print(max(elfCalories))
 
 elfCalories.sort(reverse=True)
 
+# Answer for second challenge
 print(elfCalories[0] + elfCalories[1] + elfCalories[2])
